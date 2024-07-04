@@ -5,11 +5,11 @@ This Flask web application predicts item outlet sales based on various input par
 
 #Table of Contents
 
-  Overview
-  Features
-  File Structure
-  Usage
-  Technologies Used
+  Overview-
+  Features-
+  File Structure-
+  Usage-
+  Technologies Used-
  
   
   #Overview
