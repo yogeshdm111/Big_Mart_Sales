@@ -1,6 +1,6 @@
 #BigMart Sales Dataset - Predict the sales of a store using ML algorithms
 
-#Goal
+#Goal-
 This Flask web application predicts item outlet sales based on various input parameters such as item weight, visibility, MRP, outlet details, etc. The predictive model is trained using machine learning techniques and deployed using Flask.
 
 #Table of Contents
